@@ -6,3 +6,5 @@ New project, github first
 ### Edits on github.com
 adding a line
 adding another line
+
+## Push and pull
